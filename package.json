@@ -1,16 +1,20 @@
 {
-  "name": "@litejs/s3",
+  "name": "endpoint-s3",
   "version": "24.9.0",
-  "description": "Small S3 client",
+  "description": "Small S3 client forked for prod",
   "license": "MIT",
   "author": "Lauri Rooden <lauri@rooden.ee>",
   "keywords": [
     "s3",
-    "litejs"
+    "litejs",
+    "endpoint",
+    "minimal",
+    "client",
+    "js"
   ],
   "main": "s3.js",
   "files": [],
-  "repository": "github:litejs/s3",
+  "repository": "github:syonfox/endpoint-s3",
   "scripts": {
     "lint": "npx jshint -c .github/jshint.json *.js",
     "test": "lj t test/index.js"

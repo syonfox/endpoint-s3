@@ -12,6 +12,9 @@ LiteJS S3 &ndash; [![Coverage][1]][2] [![Size][3]][4] [![Buy Me A Tea][5]][6]
 
 Dependency-free S3 client when full SDK is not needed.
 
+# Forked from @litejs/s3
+
+
 
 ### Usage
 
